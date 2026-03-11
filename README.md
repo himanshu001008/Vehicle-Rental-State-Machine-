@@ -72,7 +72,7 @@ Handles **client-side interactivity**, including:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 DriveEasy-Vehicle-Rental-System
 │
@@ -84,7 +84,7 @@ DriveEasy-Vehicle-Rental-System
 
 ---
 
-# ⚙️ System Workflow
+#  System Workflow
 
 The workflow of the system follows a simple logical process.
 
@@ -135,7 +135,7 @@ This ensures:
 
 ---
 
-# 🖥 Key Features
+# Key Features
 
 ## Vehicle Listing
 Displays available vehicles with details.
@@ -158,7 +158,7 @@ The website adapts to:
 
 ---
 
-# 📊 Sample Data
+# Sample Data
 
 The project includes sample vehicle data such as:
 
@@ -171,7 +171,7 @@ This allows demonstration of the system's functionality.
 
 ---
 
-# 📐 Page Flow
+# Page Flow
 
 Home Page  
    ↓  
@@ -185,7 +185,7 @@ Status Update
 
 ---
 
-# 📸 Program Output
+#  Program Output
 
 Screenshots should demonstrate:
 
@@ -197,7 +197,7 @@ Screenshots should demonstrate:
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 1. Download or clone the repository
 
@@ -213,7 +213,7 @@ No additional installation is required.
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 Possible enhancements:
 
@@ -226,7 +226,7 @@ Possible enhancements:
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 Through this project students learn:
 
@@ -238,7 +238,7 @@ Through this project students learn:
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 DriveEasy demonstrates how **HTML, CSS, and JavaScript** can be combined to build a fully functional web application that simulates a real-world system.
 
@@ -251,6 +251,6 @@ The project emphasizes:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Himanshu Katiyara
